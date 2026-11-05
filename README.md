@@ -2,7 +2,7 @@
 
 An end-to-end cloud ELT data pipeline and interactive business intelligence dashboard analyzing 365-day forward-looking Airbnb booking dynamics, pricing elasticity, and host performance.
 
-![Airbnb Market Intelligence Dashboard](dashboard.png)
+![Airbnb Market Intelligence Dashboard](/Screenshots/Dashboard.png)
 
 ---
 
