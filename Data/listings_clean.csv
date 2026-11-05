@@ -1,0 +1,501 @@
+id,name,neighbourhood_cleansed,room_type,accommodates,bedrooms,beds,price,review_scores_rating,number_of_reviews,host_is_superhost
+2992450,Luxury 2 bedroom apartment,THIRD WARD,Entire home/apt,4,2,2,65.73,3.56,9,f
+3820211,Restored Precinct in Center Sq. w/Parking,SIXTH WARD,Entire home/apt,3,1,1,171,4.75,320,t
+6623339,Center Sq. Loft in Converted Precinct w/ Parking,SIXTH WARD,Entire home/apt,2,1,1,242,4.74,344,t
+9501054,Spacious suite with full bath by Capital  Center,SECOND WARD,Private room,2,1,2,79,4.59,479,f
+10768745,Alb hospital area studio bath wifi. (Red),FOURTEENTH WARD,Private room,1,1,1,50,4.84,941,t
+11253948,/Fire Place Bungalow\ 1917 SUNY Eagle 6Beds 2Baths,FIFTEENTH WARD,Entire home/apt,10,3,4,262,4.97,239,t
+11639446,$55twin($30 foreign student)FreeBF Noa/c no smoke,ELEVENTH WARD,Private room,1,0,1,55,4.81,231,f
+12799126,Private Room in the Hearth of the Albany,SIXTH WARD,Private room,1,1,2,63.8,4.7,30,f
+13083497,Pristine Cape Cod on the Creek - 4 Large Bedrooms!,FIFTEENTH WARD,Entire home/apt,6,4,4,314,4.63,203,f
+14316232,"Unique Modern Room, Perfect Location Albany",TENTH WARD,Private room,1,1,1,45.44,4.67,55,f
+14989805,/Miller Colonial\ 1946 SUNY Eagle Hill 5Bed 2Baths,FIFTEENTH WARD,Entire home/apt,7,2,2,276.48,4.95,143,t
+15580397,Albany Medical/Downtown Albany/Colleges/ ROOM H,NINTH WARD,Private room,2,1,1,75,4.71,58,t
+16531782,On a little park in Albany pine hills. (Blue),FOURTEENTH WARD,Private room,2,1,1,80,4.79,633,t
+17238066,"$53($25 foreign student)Twin, noa/cno Smoke freeBF",FIFTH WARD,Private room,1,0,1,53,4.92,132,f
+17514620,Cozy Modern Room Perfect Location Albany,TENTH WARD,Private room,1,1,1,41.54,4.75,56,f
+18341426,/Sauna Ranch 1961\ SUNY Eagle Hill 4Beds 1Bath,FIFTEENTH WARD,Entire home/apt,6,2,3,432.5,4.97,58,t
+19527043,Charming 1 Bedroom in a Historic Residential Home,NINTH WARD,Private room,2,1,1,93,4.96,97,t
+20519885,5BedroomHome InAlbany 9YRSuperHost,FOURTEENTH WARD,Entire home/apt,9,5,6,390.5,4.94,140,t
+20620135,/Red Warhol Ranch\ 1959 SUNY Eagle Hill 4beds1Bath,FIFTEENTH WARD,Entire home/apt,6,2,3,245,4.92,106,t
+20633175,"Garden Apartment, on the Park, close to Capital.",SEVENTH WARD,Entire home/apt,4,1,2,202.5,4.91,132,t
+20671966,"The Metropolitan,3rd floor suite",NINTH WARD,Entire home/apt,2,1,1,129,4.89,54,t
+21052414,Cozy bedroom with (2) walk-in closets,THIRTEENTH WARD,Private room,2,1,1,43.25,4.76,50,f
+21392315,The Blair Suite,NINTH WARD,Entire home/apt,2,1,1,132,4.86,140,t
+21449583,/zBig Blue Ranch\ 1962 SUNY Eagle Hill 4Beds 2Bath,FIFTEENTH WARD,Entire home/apt,10,4,5,851,5,9,t
+21752534,"NEW LISTING! Modern, completely updated, LOCATION!",TENTH WARD,Entire home/apt,4,1,2,99.33,4.75,191,t
+21769213,Cozy downstairs bedroom in quiet neighborhood!,ELEVENTH WARD,Private room,2,1,1,,4.78,36,f
+21769439,Cozy upstairs room with (1) walk-in closet,ELEVENTH WARD,Private room,1,1,1,49,4.79,28,f
+22398196,Elegant Guest Suite in our beautiful Victorian!,NINTH WARD,Private room,2,1,1,103.5,4.91,147,t
+24606880,The Western Suite,NINTH WARD,Private room,2,1,1,111.78,4.94,64,t
+25549565,Quiet and Pretty in the Heart of Center Square,SIXTH WARD,Entire home/apt,2,1,3,115,4.9,1006,t
+26139592,Garden Apartment in Ctr. Square: Monthly Discounts,SIXTH WARD,Entire home/apt,4,1,1,136.5,4.87,181,f
+26937487,The Garden Retreat: A Luxury Private Residence,SIXTH WARD,Entire home/apt,2,1,1,157.5,,0,f
+27670660,The Rock & Roll Suite,NINTH WARD,Private room,2,1,1,96.5,5,44,t
+27692601,Albany Cozy home with fireplaces and Sunroom,EIGHTH WARD,Entire home/apt,4,2,2,344.5,4.86,21,f
+28341274,Private room in historic building on the park,SIXTH WARD,Private room,1,1,1,119,4.94,105,t
+28400263,Private Room in Historic Residential Home,NINTH WARD,Private room,2,1,1,64.5,4.96,288,t
+28722270,Historic Loft Suite @ Downtown Albany,SECOND WARD,Entire home/apt,5,1,2,181,4.79,766,f
+28868857,Cozy Garden 2-Bed Full Amenities @ Downtown Albany,SECOND WARD,Entire home/apt,3,1,2,164,4.71,704,f
+28929840,Spacious private suite and private bath,FOURTH WARD,Private room,2,1,2,213,5,10,f
+29605579,Funky Urban Gem: Prime Central Location - Parking!,SIXTH WARD,Entire home/apt,2,1,1,157,4.73,150,t
+30189794,Seashore Suite At The Inn on South Lake,NINTH WARD,Private room,1,1,1,100.5,4.95,78,t
+32279028,"Cosy, comfy and quiet for one",EIGHTH WARD,Private room,1,1,1,,4.96,221,t
+32450400,Moroccan Sands,FOURTH WARD,Private room,4,2,2,181,5,1,f
+32993402,Historic Full Amenities 2BR Apt @Downtown Albany,SECOND WARD,Entire home/apt,6,2,3,268,4.69,494,f
+34330970,Spacious & Stylish: The Billiard Flat,SECOND WARD,Entire home/apt,4,2,2,187.5,4.75,332,t
+35793179,Cozy Bedroom in Historic Residential Home,SEVENTH WARD,Private room,2,1,1,68,4.99,233,t
+35914565,Perfect Downtown Base | 1BR + Free Parking,SECOND WARD,Entire home/apt,2,1,1,143.5,4.81,344,t
+36443605,Sophisticated Retreat: 2BR in heart of Albany,THIRTEENTH WARD,Entire home/apt,4,2,2,96.51,4.8,54,f
+38321579,Comfy and quiet,EIGHTH WARD,Private room,1,1,1,75,4.97,507,t
+39093517,Center Sq 2BR Brownstone | Walk Capitol | Parking,SIXTH WARD,Entire home/apt,4,2,2,297,4.74,58,f
+39698576,Spacious Designer 1-Bed Near Albany Med,NINTH WARD,Entire home/apt,4,1,1,132.4,4.48,25,f
+39864828,Stunning Bungalo-style Loft in Downtown Albany,FOURTH WARD,Entire home/apt,4,2,2,311,4.94,247,t
+40491172,"Renovated, private parking,location, washer dryer!",THIRTEENTH WARD,Entire home/apt,5,2,3,120,4.86,156,t
+40828178,Comfortable! One Bedroom A/C Apartment Queen Bed,FOURTH WARD,Entire home/apt,4,1,3,171,4.99,175,t
+42009788,Center Square Sanctuary: Private 2-Bedroom Gem,SIXTH WARD,Entire home/apt,4,2,2,146.11,4.77,26,f
+42567833,Homey,NINTH WARD,Entire home/apt,4,3,3,156.76,,0,f
+42763847,Charming dog friendly home with private yard!,FIRST WARD,Entire home/apt,6,3,3,296,4.78,145,t
+43208391,Cozy Historic 2BD Apt @ Downtown Albany,SECOND WARD,Entire home/apt,4,2,2,306,4.85,137,t
+43459803,Center Sq Brownstone - Walk To Capitol - Parking,SIXTH WARD,Entire home/apt,3,1,2,253.8,4.96,25,f
+43736299,*The Blue House* Incredible 3 Bedroom Apartment,TENTH WARD,Entire home/apt,6,3,3,,4.85,131,t
+43955950,* Quaint home located in residential neighborhood*,EIGHTH WARD,Entire home/apt,6,3,3,373,4.92,96,t
+44180048,Historic Queen Studio Across from Washington Park!,SIXTH WARD,Entire home/apt,4,0,1,205,4.97,409,t
+44265426,Parkside Queen 1 Bedroom (1800's) Brownstone!,SIXTH WARD,Entire home/apt,4,1,2,219,4.99,341,t
+44450012,Spacious upscale luxury apartment with huge yard,EIGHTH WARD,Entire home/apt,4,2,2,146.54,4.87,30,t
+45024912,Private Apt Queen 1 Bed Sanctuary with many Extras,FOURTEENTH WARD,Entire home/apt,3,1,1,219,4.94,139,t
+45074220,Secluded Studio Loft 3fl@ Historic Downtown Albany,SECOND WARD,Entire home/apt,4,0,3,207,4.71,62,t
+45528939,UNIQUE Gem in HEART of Albany ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï,SECOND WARD,Entire home/apt,3,1,1,218,4.61,102,f
+45529316,WOW ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿,SECOND WARD,Entire home/apt,3,1,1,235.44,4.79,133,f
+45529447,ýýýýýý 2 BEDROOM / 1 BATH TRENDY Apt ýýýýýý Downtown Albany,SECOND WARD,Entire home/apt,4,2,2,235,4.64,157,f
+46894493,Our Antique Bungalow,NINTH WARD,Entire home/apt,4,2,2,333,4.99,282,t
+47334913,"Newly renovated,Amazing Location,private parking",THIRTEENTH WARD,Entire home/apt,5,2,2,117,4.86,132,t
+47345872,Bright large 1 bdr loft in Center Sq -free parking,SIXTH WARD,Entire home/apt,2,1,1,184,4.72,131,t
+47408047,"Quiet cozy apartment, private laundry, great spot!",FOURTEENTH WARD,Entire home/apt,3,1,1,101.67,4.9,94,t
+47440071,The Loft Suite @ The Historic Jesse Buel House,THIRTEENTH WARD,Private room,3,1,1,140,4.96,226,t
+47828453,Center Sq 2BR Brownstone | Parking | Walk Capitol,THIRD WARD,Entire home/apt,3,2,3,232,4.55,29,f
+47943571,Downtown Albany 1 Bed Penthouse @ Maiden Lane,THIRD WARD,Entire home/apt,4,1,2,218,4.84,197,t
+48052353,*The Rustic Home* 3 Bedroom Second Floor Apartment,TENTH WARD,Entire home/apt,6,3,4,290,4.8,184,f
+48124042,Downtown Albany 2 Bedroom + Workstation @ The Mark,THIRD WARD,Entire home/apt,6,2,3,211.5,4.88,259,t
+48172884,The Down Under Suite,NINTH WARD,Private room,1,1,1,85.5,4.94,94,t
+48470454,"/ New Giant Victorian \ 7beds 6 baths + 2x 85"" TVs",THIRTEENTH WARD,Entire home/apt,13,6,7,508,4.93,70,t
+48599533,Capital View I,SIXTH WARD,Entire home/apt,2,1,1,130.5,4.66,110,f
+50171851,Beautiful Center Square Garden-Level Unit,SIXTH WARD,Entire home/apt,2,1,1,126.5,4.99,224,f
+50207226,ýýýýýý RARE 1BR Apt with Character GREAT Location! W/Dýýýýýý,FOURTH WARD,Entire home/apt,3,1,1,212,4.72,105,f
+50211226,Private Apartment in Heart of the City,ELEVENTH WARD,Entire home/apt,3,1,1,204,4.97,202,t
+50354540,Heart of Center Square: Designer 2-Bed Retreat,SIXTH WARD,Entire home/apt,4,2,2,154.21,4.43,21,f
+50890336,"ýýýýýýCHIC, Renovated Brownstoneýýýýýý in PRIME DT Albany",FOURTH WARD,Entire home/apt,2,1,1,218,4.58,50,f
+51230498,"Chic-romantic, center-city, hotel-style apartment.",THIRD WARD,Entire home/apt,2,1,1,106,4.73,278,f
+51461480,ýýýýýýýýChic & Cozy Near Washington Park Garden Suite,TENTH WARD,Entire home/apt,2,1,1,89.54,4.94,33,f
+51579900,ýýýýýýMODERN 1BR GREAT Location Downtown! W/D Parking!ýýýýýý,FOURTH WARD,Entire home/apt,3,1,1,206,4.73,90,f
+52042995,B-Room for students & professionals close to all.,FIFTEENTH WARD,Private room,3,1,1,55,4.56,25,f
+52152157,"Modern space, everything you could want!",FIRST WARD,Entire home/apt,5,2,2,134.33,4.9,98,t
+52241973,Garden Apartment in Historic Center Square Home,SIXTH WARD,Entire home/apt,2,0,1,129,4.9,421,t
+52611613,* Adorable home w/parking near great restaurants *,NINTH WARD,Entire home/apt,6,3,3,378,4.93,162,t
+52691284,+ Perfect place to make memories with loved ones +,TENTH WARD,Entire home/apt,12,5,7,818,4.92,122,t
+52837196,ýýýýýýMODERN 1BR Apt w/ PRIVATE deck! W/Dýýýýýý,FOURTH WARD,Entire home/apt,3,1,1,218,4.67,90,f
+52863776,Washington Parkside 1 Bedroom In 1800s Brownstone!,SIXTH WARD,Entire home/apt,4,1,2,214,4.96,304,t
+53483727,Spacious Urban APT w/4BR & Office in Albany,FOURTEENTH WARD,Entire home/apt,10,5,5,315,4.92,208,f
+53567589,Private Garden Apt Downtown Albany|Pets Allowed,SIXTH WARD,Entire home/apt,2,1,1,192.24,4.86,318,f
+53645427,ýýýýýý BEAUTIFUL  2 BED 2 BATH  w/ SOAKER TUB + W/Dýýýýýý,FOURTH WARD,Entire home/apt,5,2,2,270,4.6,151,f
+53860077,/ Sauna Garden Getaway\ 1943 SUNY Eagle Hill,FIFTEENTH WARD,Entire home/apt,10,4,6,351,4.95,63,t
+53971505,Charming 1 Bdrm Garden Apt in Historic Brownstone,FOURTH WARD,Entire home/apt,2,1,1,,5,3,f
+54126420,Pine Hills Stay 1 Bedroom,TENTH WARD,Entire home/apt,2,1,1,146,4.76,124,t
+54126421,Beautiful 2 BDR Apartment in the heart of Albany,SIXTH WARD,Entire home/apt,4,2,3,183,4.9,101,t
+54126427,Beautiful 1 bedroom In the heart of Albany,SIXTH WARD,Entire home/apt,2,1,1,173,4.86,209,t
+54150131,Charming 170-Year-Old Home in the Heart of Albany,SIXTH WARD,Entire home/apt,8,3,4,,4.98,266,t
+54369238,"Cozy townhouse, close to hospital, free parking!",NINTH WARD,Entire home/apt,6,2,2,156,4.87,90,t
+54369240,Lovely 1 bedroom rental close to Alb Med!,TENTH WARD,Entire home/apt,3,1,1,104,4.73,66,t
+5.59E+17,Cozy 1 bedroom with office and luxurious King size,NINTH WARD,Entire home/apt,2,1,2,83.33,3,2,f
+5.88E+17,Modern one bedroom with free off street parking,SECOND WARD,Entire home/apt,2,1,1,107.69,5,17,t
+5.93E+17,Jesse's Suite @ The Historic Jesse Buel House,THIRTEENTH WARD,Private room,2,1,2,135,4.96,169,t
+6.17E+17,Iconic City Center Apt in Downtown | Pets Allowed.,SIXTH WARD,Entire home/apt,2,1,1,178,4.84,260,f
+6.20E+17,Modern luxury one bedroom with off street parking,SECOND WARD,Entire home/apt,2,1,1,127.69,5,12,t
+6.22E+17,The Historic Jesse Buel Farmhouse,FOURTEENTH WARD,Entire home/apt,12,4,4,1290,4.95,20,t
+6.28E+17,ýýýýýýSPACIOUS 1BR Apt w/ Character 10ft Ceilings W/D!ýýýýýý,SECOND WARD,Entire home/apt,2,1,1,206,4.76,68,f
+6.29E+17,Clean lines and accessible Convenient Location!,THIRD WARD,Private room,1,2,2,82,,0,f
+6.34E+17,Perfect for Families and Traveling Professionals,SIXTH WARD,Entire home/apt,5,3,3,,4.97,103,f
+6.39E+17,ýýýýýýýý Historic & Homey 1 Bdrm Apt @ Downtown Albany,SECOND WARD,Entire home/apt,4,1,1,1110,3.7,10,f
+6.50E+17,Modern luxury studio with free off street parking,SECOND WARD,Entire home/apt,2,0,1,141.43,4.75,8,t
+6.53E+17,Lovely apartment in heart of Albany,SIXTH WARD,Entire home/apt,1,1,1,146.67,5,6,f
+6.59E+17,CHEERFULL 3 BEDROOM HOME WITH FREE PARKING.,FIRST WARD,Entire home/apt,4,4,4,240.8,5,6,t
+6.78E+17,**New Listing! Modern 2 bdrm Apt in Mansion Area!,SECOND WARD,Entire home/apt,4,2,2,,4.86,28,f
+6.90E+17,"Elegant, spacious studio apt in historic mansion",SIXTH WARD,Entire home/apt,2,1,1,151,4.89,365,t
+6.93E+17,Relax in Style by Washington Park - Free Parking,ELEVENTH WARD,Entire home/apt,2,1,1,76.46,4.81,103,f
+6.99E+17,"Historic Gem, Fireplace,2BR/2BA,Capitol District",SECOND WARD,Entire home/apt,4,2,4,354.2,5,10,t
+7.04E+17,Stylish 3BR Near Downtown & Albany Med,THIRTEENTH WARD,Entire home/apt,7,3,5,344,4.71,7,f
+7.05E+17,Cozy 1 Bedroom Apt in desirable Albany locale,THIRTEENTH WARD,Entire home/apt,2,1,1,124.67,4.91,11,t
+7.06E+17,Luxurious one bedroom with off-street parking,SECOND WARD,Entire home/apt,2,1,1,193,4.9,10,t
+7.17E+17,Charming Central Escape | 2BR + Parking,THIRTEENTH WARD,Entire home/apt,4,2,2,176.05,4.87,84,t
+7.27E+17,Luxurious 3 Bedroom Downtown Albany,SECOND WARD,Entire home/apt,4,3,3,134.93,5,7,t
+7.36E+17,Modern & Homey 1BD/1BA Fl 1 Apt @ Downtown Albany,THIRD WARD,Entire home/apt,4,1,1,197.64,4.73,121,f
+7.37E+17,Lovely private room in center square for $700/mo,SIXTH WARD,Private room,1,1,1,60,4.67,3,f
+7.38E+17,4 bed all on one floor,TENTH WARD,Entire home/apt,6,4,4,401,4.53,49,t
+7.40E+17,Adirondack Suite #1,NINTH WARD,Private room,1,1,1,85.5,4.9,48,t
+7.44E+17,"1 Bedroom on Lincoln Park, near Lark and Downtown",SEVENTH WARD,Entire home/apt,2,1,2,141.5,4.96,53,t
+7.57E+17,The Double Room @ Historic Jesse Buel House,THIRTEENTH WARD,Private room,4,2,2,189,5,8,t
+7.57E+17,Private Room in the Center of the Albany,SIXTH WARD,Private room,1,1,2,54.55,4.78,23,f
+7.57E+17,Elegant Studio in Center Square,SIXTH WARD,Entire home/apt,2,1,1,88.43,5,15,f
+7.58E+17,Charming location near universities & hospital,THIRTEENTH WARD,Entire home/apt,4,2,2,175.13,4.88,73,t
+7.61E+17,ParkSouth Stay 2 Bedroom with Parking,SIXTH WARD,Entire home/apt,4,1,1,185,4.9,50,t
+7.65E+17,Rest+Restore Room ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿,TENTH WARD,Private room,1,1,1,115,5,45,t
+7.75E+17,Entire cozy unit in Albany,FOURTEENTH WARD,Entire home/apt,2,1,1,100,4.9,80,t
+7.85E+17,Private Entry to bedroom and private bath,FOURTEENTH WARD,Private room,1,1,1,90,4.7,64,f
+7.86E+17,Center Square Gem: Junior 1 Bedroom,THIRD WARD,Entire home/apt,2,1,1,61.37,5,3,f
+7.86E+17,Glamorous 1BR Retreat in Center Square,SIXTH WARD,Entire home/apt,2,1,1,83.96,4.6,5,f
+7.86E+17,Elegant newly renovated cozy smart apartment,FIFTH WARD,Entire home/apt,4,1,2,158.5,4.75,44,t
+7.87E+17,*The Allen House* Gorgeous Apartment - Sleeps 8,FOURTEENTH WARD,Entire home/apt,8,3,4,314,4.94,159,f
+7.96E+17,Historic Washington Park Inn | Full Mansion | 7 BR,NINTH WARD,Shared room,15,7,8,840,4.7,10,f
+7.96E+17,Historic Washington Park Inn | Room 4 | Floor 2,NINTH WARD,Private room,2,1,1,168.48,4.64,14,f
+7.97E+17,Albany Medical/colleges/Downtown Albany/ Room O,TENTH WARD,Private room,2,1,1,75,4.77,26,t
+8.02E+17,Historic Washington Park Inn | Room 6 | Floor 2,SIXTH WARD,Private room,2,1,1,167,4.33,6,f
+8.04E+17,3br/2ba Near Alb Med & St.Petes.,FOURTEENTH WARD,Entire home/apt,6,3,3,150.71,5,7,t
+8.04E+17,Historic Washington Park Inn | Room 5 | Floor 2,NINTH WARD,Private room,2,1,2,156,4.67,6,f
+8.04E+17,Historic Washington Park Inn | Room 1 | 1st Floor,NINTH WARD,Private room,2,1,1,156,4.55,11,f
+8.10E+17,Two bedroom apartment near hospitals pet friendly,NINTH WARD,Entire home/apt,4,2,2,107.7,4.75,4,t
+8.14E+17,The front room w/ TV and king size bed,THIRTEENTH WARD,Private room,2,1,1,66.4,4.64,25,f
+8.16E+17,Cozy Apartment across the Park,SIXTH WARD,Entire home/apt,2,1,1,153,4.69,61,t
+8.22E+17,COMFY Room/w Private BATH + TV,FOURTEENTH WARD,Private room,1,1,1,39.58,5,3,f
+8.26E+17,2 br apt 2 min walk to albanymed offstreet parking,NINTH WARD,Entire home/apt,4,2,2,260,4.57,91,f
+8.31E+17,Boho-Chic Cape Conveniently Located,FIFTEENTH WARD,Entire home/apt,9,4,4,350,4.93,149,t
+8.42E+17,Mellow Cove,SIXTH WARD,Entire home/apt,4,2,2,120,4.33,6,f
+8.42E+17,Cozy Cove Away From Home,SIXTH WARD,Entire home/apt,4,2,2,120,4.5,12,f
+8.43E+17,Center Square Serenity: 2-Bedroom Elegance,SIXTH WARD,Entire home/apt,4,3,2,114,3.5,2,f
+8.45E+17,Classic Albany Charm ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿,SIXTH WARD,Entire home/apt,5,2,2,223,4.33,3,f
+8.46E+17,Modern Cottage-Perfect for Families!,FIRST WARD,Entire home/apt,8,4,5,549,4.96,177,t
+8.47E+17,Spacious Home Away from Home!,TWELFTH WARD,Entire home/apt,7,3,3,341,4.52,21,f
+8.49E+17,Your luxury home away from home,SIXTH WARD,Entire home/apt,3,2,,186.67,5,2,f
+8.50E+17,Stunning Guest Suite in Historic 1874 Row House,SECOND WARD,Private room,3,1,2,161,4.98,263,t
+8.51E+17,"Plum room, private queen near Albany Med, UAlbany",THIRTEENTH WARD,Private room,1,1,1,98,5,20,t
+8.58E+17,Updated Historic Brownstone Apt.,THIRD WARD,Entire home/apt,2,1,1,171.5,4.77,31,f
+8.70E+17,Quiet Room Near Everything,FOURTEENTH WARD,Private room,1,1,1,37.82,5,4,f
+8.81E+17,ParkSouth Brickhouse 1 Bedroom,SIXTH WARD,Entire home/apt,2,1,1,144,4.83,35,t
+8.82E+17,Modern / Downtown Albany 1 BR APT,TENTH WARD,Entire home/apt,3,1,1,128.52,4.75,81,f
+8.87E+17,The Comfort II,THIRD WARD,Private room,1,1,2,49.14,4.64,33,f
+8.87E+17,The Comfort,THIRD WARD,Private room,1,1,1,55.86,4.83,30,f
+8.89E+17,Walk to Downtown Albany: Ten Broeck Triangle Apt!,THIRD WARD,Entire home/apt,5,2,3,190,4.3,20,f
+8.99E+17,"AIRY 5Br-2Ba,Kids Rm, 6TVs,PrivateYard&Parking!",TENTH WARD,Entire home/apt,13,5,7,328.5,4.82,71,t
+9.02E+17,"""The LEO Home"" Private Bedroom 4",TENTH WARD,Private room,1,1,1,40.63,5,2,f
+9.04E+17,/Luxury Modern Western Hideout\,THIRTEENTH WARD,Entire home/apt,5,2,2,356,5,36,t
+9.05E+17,*The Red House* 4 Bedroomsï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½,TENTH WARD,Entire home/apt,8,4,4,299,4.82,121,f
+9.17E+17,Luxury apartment near Saint Peter / Albany Med,FOURTEENTH WARD,Entire home/apt,2,1,3,,5,7,f
+9.18E+17,"R&R | Hospitals, Colleges + Politics",TENTH WARD,Private room,1,1,1,103,4.96,23,t
+9.19E+17,Room for rent,FIFTH WARD,Private room,2,1,1,93,,0,f
+9.21E+17,Work hard! Play hard!,THIRD WARD,Entire home/apt,2,1,1,103.23,4.67,3,f
+9.29E+17,Newly Renovated Gem in Melrose - Pet Friendly,THIRTEENTH WARD,Entire home/apt,4,1,1,115,4.8,96,t
+9.33E+17,Stylish top floor apt w/parking,THIRTEENTH WARD,Entire home/apt,4,2,2,193,4.64,55,t
+9.34E+17,Historic Washington Park Inn | Room 7 | Floor 2,SIXTH WARD,Private room,2,1,1,156,4.7,10,f
+9.38E+17,Hudson 2 at The Argus Hotel,SIXTH WARD,Private room,2,1,1,174,5,3,f
+9.38E+17,Hudson 3 ADA at The Argus Hotel,TENTH WARD,Private room,2,1,1,174,4.67,9,f
+9.38E+17,Hudson 4 at The Argus Hotel,TENTH WARD,Private room,2,1,1,174,4.67,9,f
+9.38E+17,Hudson 5 at The Argus Hotel,SIXTH WARD,Private room,2,1,1,185,4.5,8,f
+9.38E+17,Whalen 1 Suite at The Argus Hotel,SIXTH WARD,Private room,2,1,1,275,4,4,f
+9.38E+17,Whalen 2 Deluxe at The Argus Hotel,TENTH WARD,Private room,2,1,1,196,5,2,f
+9.38E+17,Whalen 3 at The Argus Hotel,SIXTH WARD,Private room,2,1,1,185,,0,f
+9.38E+17,Whalen 4 at The Argus Hotel,SIXTH WARD,Private room,2,1,1,185,,0,f
+9.38E+17,Knickerbocker 1 The Argus Hotel,TENTH WARD,Private room,2,1,1,185,5,1,f
+9.38E+17,Knickerbocker 3 The Argus Hotel,SIXTH WARD,Private room,2,1,1,252,,0,f
+9.38E+17,Historic Carriage House  in Washington Park,TENTH WARD,Entire home/apt,6,3,4,381,4.9,20,f
+9.38E+17,"The backroom with TV, Queen bed and extra futon",ELEVENTH WARD,Private room,1,1,1,74.4,4.73,30,f
+9.38E+17,The little room with TV and twin bed,THIRTEENTH WARD,Private room,1,1,1,65.2,4.92,50,f
+9.40E+17,Sunny King bed w private luxurious bath & garden,FIFTEENTH WARD,Private room,1,1,1,123.67,5,8,f
+9.43E+17,The spacious room w/ tv dresser/desk,ELEVENTH WARD,Private room,2,1,1,73.2,4.88,26,f
+9.50E+17,"Historic, Spacious Mansion Suite",SIXTH WARD,Entire home/apt,4,2,2,178,4.9,282,t
+9.51E+17,Modern and cozy home,FIRST WARD,Entire home/apt,8,3,5,,5,14,t
+9.58E+17,Oasis Garden Apt w/Queen Bed,FIFTEENTH WARD,Entire home/apt,3,1,2,209.25,4.85,20,f
+9.64E+17,Comfy studio in heart of Albany,SIXTH WARD,Entire home/apt,2,1,1,160,4.86,144,t
+9.65E+17,Historic Brownstone in Downtown Albany,THIRD WARD,Entire home/apt,4,2,2,,5,6,t
+9.66E+17,"Modern 2-bed Apt / Hospitals, SUNY, State Office",FIFTEENTH WARD,Entire home/apt,4,2,2,158.33,4.93,30,t
+9.70E+17,Abba House Retreat - 1st Floor Queen Bed,FOURTEENTH WARD,Private room,2,1,1,81,4.85,175,t
+9.80E+17,Chic Madison Parkview,SIXTH WARD,Entire home/apt,2,2,3,178,4.91,44,t
+9.83E+17,The House That Pat Built,FIFTH WARD,Entire home/apt,4,2,4,209.5,4.43,7,f
+9.89E+17,Modern 1BR in a great location,THIRD WARD,Entire home/apt,3,1,2,106.49,4.91,11,t
+9.91E+17,Garden level apartment | Center Sq-great location!,SIXTH WARD,Entire home/apt,1,1,1,160,4.88,50,t
+9.92E+17,Two bedroom close to colleges!,FOURTEENTH WARD,Entire home/apt,4,2,2,126.67,4.91,43,t
+9.93E+17,5BR/4BA Retreat | Fire Pit + BBQ,SEVENTH WARD,Entire home/apt,6,5,5,437.05,4.68,25,t
+9.93E+17,Albany 3 Bedroom Apt. Sleeps 6,SIXTH WARD,Entire home/apt,6,3,4,,5,12,f
+9.99E+17,"Spacious Apartment Downtown Albany, NY",THIRD WARD,Entire home/apt,2,1,1,170,4.94,63,t
+1.00E+18,Elegant Albany Retreat | Mins to D/T & UAlbany,EIGHTH WARD,Entire home/apt,6,3,3,242.5,4.99,113,t
+1.01E+18,Massive 4BD/3BA 2-Fl Townhouse Apt Downtown Albany,SECOND WARD,Entire home/apt,12,4,4,372,4.66,108,f
+1.01E+18,Top floor w/off street parking,TENTH WARD,Entire home/apt,6,4,2,303,4.77,39,t
+1.01E+18,Abba House Historic Retreat - 3rd Flr Queen Bed,THIRTEENTH WARD,Private room,2,1,1,75,4.88,88,t
+1.01E+18,Abba House Historic Retreat - Twin Purple Mattress,THIRTEENTH WARD,Private room,1,1,1,70,4.88,122,t
+1.01E+18,ABBA House Retreat - King Bed w/ Large Office,FOURTEENTH WARD,Private room,2,1,1,79,4.93,27,t
+1.01E+18,ABBA House Retreat: Centrally Located Grand Manor,THIRTEENTH WARD,Entire home/apt,16,9,10,990,5,15,t
+1.01E+18,Abba House Historic Retreat - 2nd Floor Full Bed,FOURTEENTH WARD,Private room,1,1,1,70,4.92,63,t
+1.02E+18,ýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýýý,NINTH WARD,Private room,2,1,1,29.8,,0,f
+1.02E+18,Heart of Albany - Downtown Near Everything,SIXTH WARD,Entire home/apt,3,0,1,199,4.62,68,f
+1.02E+18,ABBA House Retreat- Full Bed w/ Large Closet,FOURTEENTH WARD,Private room,2,1,1,80,4.91,64,t
+1.02E+18,Abba House Historic Retreat - 2nd Floor Queen Bed,THIRTEENTH WARD,Private room,2,1,1,92,4.91,120,t
+1.02E+18,Rowhouse 9 ParkSouth 1 Bedroom,SIXTH WARD,Entire home/apt,2,1,1,139,4.75,81,t
+1.02E+18,Downtown Studio,SECOND WARD,Entire home/apt,2,0,1,131,4.72,252,t
+1.02E+18,*Beautiful* Spacious Prime DT 1 Bedroom Apt w GYM,THIRD WARD,Entire home/apt,3,1,1,217,4.44,32,f
+1.02E+18,*Spacious* Modern 1 Bedroom RARE Apt w GYM,THIRD WARD,Entire home/apt,3,1,1,221,4.59,37,f
+1.03E+18,"*Huge, bright, private 2Bedroom*",THIRD WARD,Entire home/apt,4,2,2,116.36,4.5,2,f
+1.04E+18,2 bed room Apartment,SECOND WARD,Entire home/apt,4,2,2,149,4.41,37,f
+1.05E+18,Fully Furnished 2BR- 5 min to Albany Med Downtown,FIRST WARD,Entire home/apt,4,2,2,81.07,4.89,9,f
+1.06E+18,"Bonjour, Bienvenue A Chez Pierre",TWELFTH WARD,Private room,4,1,1,,5,1,f
+1.06E+18,Massive 5BD/4BA 3-Story Duplex @ Downtown Albany,SECOND WARD,Entire home/apt,16,5,5,577,4.52,27,f
+1.06E+18,"Nighthawk room, private twin near AMC, UAlbany",THIRTEENTH WARD,Private room,1,1,1,83,5,19,t
+1.08E+18,Lark St Oasis: Parking & Laundry,SIXTH WARD,Entire home/apt,3,1,2,,5,10,f
+1.09E+18,Newly renovated cozy apartment !,THIRD WARD,Entire home/apt,4,1,1,88.21,5,1,f
+1.09E+18,Triplex oasis w:parking near MVP,SECOND WARD,Entire home/apt,2,1,,162.5,4.85,104,t
+1.10E+18,Walkable Studio: Restaurants & Fun Just Steps Away,SIXTH WARD,Entire home/apt,2,0,1,133,4.92,73,t
+1.10E+18,"Homey, Quiet 2BR W/ Washer Dryer",FOURTEENTH WARD,Entire home/apt,5,2,2,149.33,4.83,58,t
+1.10E+18,Rowhouse 03 1 BDR Apartment,SIXTH WARD,Entire home/apt,2,1,1,144,4.55,78,t
+1.10E+18,Abba House historic Retreat - 2nd Floor Queen,THIRTEENTH WARD,Private room,2,1,1,85,4.95,62,t
+1.11E+18,Downtown Brownstone with a View!,THIRD WARD,Entire home/apt,4,2,2,,,0,f
+1.11E+18,Historical Pastures,THIRD WARD,Entire home/apt,5,1,,200.5,4.5,28,f
+1.11E+18,Travelers House - Private 2 bedrooms with a deck,FOURTEENTH WARD,Entire home/apt,4,2,,112.67,4.8,5,f
+1.12E+18,1BR Garden Apt.| W/D + Fire Pit for Summer Nights!,SIXTH WARD,Entire home/apt,2,1,2,171,4.94,34,t
+1.12E+18,Historic Garden Retreat in 1858 Row House + W/D,SIXTH WARD,Entire home/apt,2,1,2,137.2,4.87,39,t
+1.12E+18,Cozy apartment in Albany,SIXTH WARD,Entire home/apt,2,1,1,179.5,3.83,6,f
+1.12E+18,"Modern townhouse 2 Bedrooms, King Bed, parking",FIFTEENTH WARD,Entire home/apt,4,2,,199.69,4.82,95,t
+1.12E+18,Charming 1BR Near Capitol-Dwntwn,SECOND WARD,Entire home/apt,2,1,,126.67,4.57,7,t
+1.12E+18,Modern Duplex - Historical Home,SECOND WARD,Entire home/apt,2,1,,157.2,5,8,t
+1.13E+18,Welcome home travelers,SEVENTH WARD,Entire home/apt,3,1,1,86,4,2,f
+1.13E+18,"Close to MVP/Airport/SUNY; 45m-1Hr: Saratoga, LG!",FIFTEENTH WARD,Entire home/apt,4,2,2,207,4.99,142,t
+1.13E+18,Calling all travelers,THIRD WARD,Entire home/apt,2,2,1,90.21,4,2,f
+1.14E+18,Cozy Bedrooms in Albany,THIRTEENTH WARD,Private room,1,0,1,43.44,5,1,f
+1.14E+18,"""The LEO Home"" Private Bedroom 1",THIRTEENTH WARD,Private room,1,1,1,68.5,,0,f
+1.14E+18,North Allen,THIRTEENTH WARD,Private room,1,1,1,35.17,3.5,2,f
+1.14E+18,Safe Comfy Cozy 2 bedrooms.,FIRST WARD,Entire home/apt,4,2,2,,4,4,f
+1.14E+18,Top Rated- Cozy fall retreat Upstate NY,THIRTEENTH WARD,Entire home/apt,2,1,2,180,4.93,14,t
+1.15E+18,Larson Green,SIXTH WARD,Entire home/apt,4,1,3,160,4.87,130,t
+1.15E+18,Larson Blue,SIXTH WARD,Entire home/apt,4,1,3,117.25,4.72,106,t
+1.15E+18,Albany historic Washington Park,SIXTH WARD,Entire home/apt,3,1,1,155,4.7,23,f
+1.16E+18,"""The Albany Allen Home"" Private Bedroom 1",TENTH WARD,Private room,1,1,1,58.72,5,2,f
+1.16E+18,*Private Entrance* Cozy Apt Bright + Modern W/D,SEVENTH WARD,Entire home/apt,3,1,1,221,4.38,16,f
+1.17E+18,Walk to convention center:Lark St:Capital,SIXTH WARD,Entire home/apt,4,2,2,217,4.9,87,t
+1.17E+18,New near major medical facility,SEVENTH WARD,Entire home/apt,6,4,4,337.14,4.93,41,t
+1.17E+18,"Spacious, Modern Gem in Melrose - Pet Friendly",THIRTEENTH WARD,Entire home/apt,6,3,3,337.33,4.93,76,t
+1.18E+18,Limited Time Listing,SIXTH WARD,Entire home/apt,2,0,1,187,4.86,43,f
+1.19E+18,Empire Plaza Apartment,SIXTH WARD,Entire home/apt,3,1,2,115,4.93,284,t
+1.19E+18,"""The Albany Allen Home"" Private Bedroom 3",FOURTEENTH WARD,Private room,1,1,1,38.46,,0,f
+1.19E+18,House near major medical centers/colleges,NINTH WARD,Entire home/apt,6,4,5,387,4.73,30,t
+1.19E+18,Beautiful 2 Bedroom with Parking,SIXTH WARD,Entire home/apt,4,2,2,220,4.82,66,t
+1.19E+18,Pine Hills Stay 1 BDR with Parking,TENTH WARD,Entire home/apt,2,1,1,177,4.79,56,t
+1.20E+18,"""The LEO Home"" Private Bedroom 2",TENTH WARD,Private room,1,1,1,62.34,,0,f
+1.20E+18,Traveling Medical Professionals,NINTH WARD,Private room,1,8,1,53.32,5,8,t
+1.21E+18,"""The Albany Allen Home"" Private Bedroom 5",TENTH WARD,Private room,1,1,1,,,0,f
+1.21E+18,"Dali room, private queen near AMC, UAlbany",THIRTEENTH WARD,Private room,1,1,1,98,5,4,t
+1.22E+18,"493 Washington Ave, Albany 12206, 1st Floor",ELEVENTH WARD,Entire home/apt,4,3,3,214.67,4.37,19,f
+1.22E+18,White Cozy Room,THIRTEENTH WARD,Private room,1,1,1,36.03,4.8,5,f
+1.23E+18,Homey Room,THIRTEENTH WARD,Private room,2,1,1,86,5,2,f
+1.23E+18,/Audubon Apartment\ 3bed 1bath built1928 Pine Hill,THIRTEENTH WARD,Entire home/apt,5,3,3,167.5,5,15,t
+1.23E+18,King Bed ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿,SIXTH WARD,Entire home/apt,3,1,2,210,4.94,97,t
+1.23E+18,Larson Gold,SIXTH WARD,Entire home/apt,4,1,3,160,4.79,132,t
+1.23E+18,Spacious Garden Apt in Center Square,SIXTH WARD,Entire home/apt,2,1,1,152,5,4,f
+1.24E+18,"Family-friendly, walkable, city + outdoors",EIGHTH WARD,Entire home/apt,8,4,5,,5,8,f
+1.24E+18,Nice room in downtown albany,SECOND WARD,Private room,1,1,1,60,4.8,40,f
+1.25E+18,"""The Albany Allen Home"" Private Bedroom 4",TENTH WARD,Private room,1,1,1,58.72,5,1,f
+1.25E+18,staycation CAP region,EIGHTH WARD,Entire home/apt,6,3,2,293,,0,f
+1.25E+18,"""The Albany Allen Home"" Private Bedroom 2",TENTH WARD,Private room,1,1,1,67.9,5,1,t
+1.26E+18,Rowhouse 10 One Bedroom,SIXTH WARD,Entire home/apt,2,1,1,149,4.62,29,t
+1.26E+18,"""The LEO Home"" Private Bedroom 3",TENTH WARD,Private room,1,1,1,48.39,,0,f
+1.26E+18,"*Serene* Parkside 2BR Apt: Private Entrance, W/D",SEVENTH WARD,Entire home/apt,5,2,2,264,4.72,46,f
+1.27E+18,Stylish studio - downtown Albany,SIXTH WARD,Entire home/apt,2,0,1,137,4.83,6,f
+1.27E+18,Row house on the park,SIXTH WARD,Private room,2,1,1,,4,1,f
+1.27E+18,Central Location 1 Bed 1 Bath With Parking,SIXTH WARD,Entire home/apt,2,1,1,145,4.84,83,t
+1.27E+18,BuelView Flat- Queen Room in Spacious Apartment,THIRTEENTH WARD,Private room,2,1,1,58.33,4.78,18,t
+1.27E+18,Short term across from UAlbany,TWELFTH WARD,Entire home/apt,2,0,1,,,0,f
+1.27E+18,Two bedroom apartment in the heart of Albany,THIRD WARD,Entire home/apt,4,2,1,72.72,5,1,f
+1.28E+18,Spacious & Quiet Townhouse Near Legislative Center,SECOND WARD,Private room,1,2,1,45,4.67,6,f
+1.28E+18,Cowen Residence Hospitality.,FOURTH WARD,Entire home/apt,4,2,2,286,3.8,5,f
+1.29E+18,"1 bedroom apt close to hospitals,3min to Albanymed",NINTH WARD,Entire home/apt,2,1,1,199,4.76,41,f
+1.29E+18,ýýýýýýThe Blue Homeýýýýýý Private Bedroom 3 / 1 Full Bath,TENTH WARD,Private room,1,1,1,,,0,f
+1.29E+18,Modern Luxury 2 bedroom w/yard,EIGHTH WARD,Entire home/apt,4,2,2,155,,0,t
+1.30E+18,'The Blue Home' Private Bedroom 1 / 1 Full Bath,THIRTEENTH WARD,Private room,1,1,1,62.34,5,1,f
+1.30E+18,Room in Albany,THIRTEENTH WARD,Private room,2,1,1,63,4.87,15,t
+1.30E+18,"Room In Albany, NY",ELEVENTH WARD,Private room,2,1,1,63,4.91,144,t
+1.30E+18,Fresh & Modernized 2BR Fl 1 Apt @ Downtown Albany,SECOND WARD,Entire home/apt,6,2,2,281.88,4.6,63,f
+1.31E+18,ýýýýýýThe Blue Homeýýýýýý Private Bedroom 2 / 1 Full Bath,TENTH WARD,Private room,1,1,1,58.72,5,1,f
+1.31E+18,ýýýýýýThe Blue Homeýýýýýý Private Bedroom 4 / 1 Full Bath,TENTH WARD,Private room,1,1,1,62.34,,0,f
+1.31E+18,Private Room In Albany,ELEVENTH WARD,Private room,2,1,1,71,4.93,81,t
+1.32E+18,Prime Location - 1 Bedroom,SIXTH WARD,Entire home/apt,2,1,1,100.89,,0,f
+1.32E+18,The Sweet spot,FIFTEENTH WARD,Entire home/apt,6,3,3,152.3,4.8,10,t
+1.33E+18,The Whisky House,SIXTH WARD,Entire home/apt,8,3,3,195,4.65,63,f
+1.33E+18,Top of The Capital,SIXTH WARD,Entire home/apt,2,1,1,140.5,4.67,6,f
+1.33E+18,Albany Prime Location - 1 Bed,SIXTH WARD,Entire home/apt,2,1,1,100.25,,0,f
+1.33E+18,Charming & Roomy 3BR/1BA Fl 2 Apt @Downtown Albany,SECOND WARD,Entire home/apt,10,3,3,277,4.53,62,f
+1.35E+18,Center Sq 1BR| Walk to Capitol | Parking | Lark St,SIXTH WARD,Entire home/apt,2,1,1,118,4.44,18,f
+1.35E+18,Capital City Escape,FIFTEENTH WARD,Entire home/apt,6,3,3,336,4.9,100,t
+1.36E+18,Travelerï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï,NINTH WARD,Private room,1,8,1,89,4.83,6,t
+1.36E+18,Two bedroom apartment in Albany,THIRD WARD,Entire home/apt,4,2,2,68.21,,0,f
+1.37E+18,Vacation Home in Albany,EIGHTH WARD,Entire home/apt,8,4,4,348,4.89,62,t
+1.37E+18,Capital Comfort Stay,FOURTH WARD,Entire home/apt,4,2,4,140,4.61,82,f
+1.37E+18,Lovely located 2 bdrm - Steps - Dwntwn & Hospitals,FIFTH WARD,Entire home/apt,4,2,1,84.07,,0,f
+1.37E+18,Near Hospitals: Home w/ Yard in Albany!,FIRST WARD,Entire home/apt,6,3,3,,3,1,f
+1.37E+18,Central cozy 4 bedroom w/King bed,TENTH WARD,Entire home/apt,8,4,4,173,5,1,t
+1.37E+18,"Walk to Albany Med, MVP Arena, Washington Park",SIXTH WARD,Entire home/apt,4,1,2,132.5,4.86,115,t
+1.37E+18,FamilyFriendly3BR+Loaded Amenities+PrivateDriveway,FOURTEENTH WARD,Entire home/apt,8,3,6,255,4.96,48,t
+1.38E+18,A peaceful home away from home,FOURTEENTH WARD,Entire home/apt,5,3,3,209.4,5,6,f
+1.38E+18,Cozy Sunshine,SEVENTH WARD,Entire home/apt,2,1,1,106.4,4.76,25,t
+1.38E+18,"Woodlands room, private queen, walk to AMC",TENTH WARD,Private room,1,1,1,,5,3,t
+1.38E+18,"Crimson private queen room, walk to Albany Med",TENTH WARD,Private room,2,1,1,,5,2,t
+1.38E+18,"Peony room, private w/ King bed!",TENTH WARD,Private room,2,1,1,,5,2,t
+1.38E+18,Cozy Sunset,SEVENTH WARD,Entire home/apt,2,1,1,107.4,4.75,48,t
+1.38E+18,Cozy Home 5 STAR AREA W/Parking,FOURTEENTH WARD,Entire home/apt,5,3,3,275.84,4.98,84,t
+1.38E+18,"Cranberry room, large private queen near AMC",TENTH WARD,Private room,1,1,1,,5,1,t
+1.39E+18,New Large Bedroom!,NINTH WARD,Private room,1,1,3,44.28,5,1,f
+1.39E+18,Albany Cozy Room Next to downtown W/breakfast,FIFTH WARD,Entire home/apt,2,1,1,83.2,4.37,19,f
+1.39E+18,"New Bedroom! Centrally located, Includes Laundry!",NINTH WARD,Private room,1,1,3,135,5,6,f
+1.40E+18,The Small Yellow Room with twin bed /tv,THIRTEENTH WARD,Private room,1,1,1,55.8,4.6,5,f
+1.40E+18,New Bedroom Centrally Located!,FOURTEENTH WARD,Private room,1,1,3,35.67,5,3,f
+1.40E+18,4 bedroom house with all the amenities,TENTH WARD,Entire home/apt,5,4,4,113.71,4.33,3,f
+1.41E+18,Albany Getaway Near Brewery District,FOURTH WARD,Entire home/apt,2,1,1,146.5,5,8,t
+1.43E+18,Downtown ALB ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½,THIRD WARD,Entire home/apt,12,4,8,455.55,5,34,t
+1.43E+18,Cafï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½,SECOND WARD,Entire home/apt,4,2,2,220,4.96,24,t
+1.43E+18,/Purple Potty\3bed1ba Apartment,THIRTEENTH WARD,Entire home/apt,6,3,3,154,5,4,t
+1.43E+18,"Charming, Spacious Apt Downtown Albany",THIRD WARD,Entire home/apt,2,1,1,150,5,1,t
+1.43E+18,Stylish Albany Room W/Breakfast Next to Downtown.,ELEVENTH WARD,Entire home/apt,2,1,1,82.72,4,12,f
+1.44E+18,Cozy apartment in beautiful Downtown Albany,SIXTH WARD,Entire home/apt,2,1,1,118,4.88,32,t
+1.44E+18,Timelessly Restored Fl 2 Apt @DowntownAlbany,SECOND WARD,Entire home/apt,6,1,1,207,4.61,38,f
+1.44E+18,Room close to AMed and St peters,TENTH WARD,Private room,1,1,1,43.75,2.5,2,f
+1.45E+18,/Red Den Apartment\3bed1bath,THIRTEENTH WARD,Entire home/apt,4,3,3,242.5,5,5,t
+1.45E+18,Comfy & Convenient 2-Bed Fl 1 Apt @DowntownAlbany,SECOND WARD,Entire home/apt,5,2,2,283,4.61,23,f
+1.45E+18,A charming apartment.,SECOND WARD,Entire home/apt,2,1,1,75,4.71,126,f
+1.45E+18,Spacious convenient to Hospital and capital,SECOND WARD,Entire home/apt,2,1,1,75,4.69,116,f
+1.45E+18,Cozy Monthly | Pvt | W/D | Pets,NINTH WARD,Entire home/apt,4,2,2,106.56,5,3,t
+1.45E+18,Albany Cozy Stay W/Breakfast Close to Downtown,FIFTH WARD,Entire home/apt,2,1,1,85,3.4,5,f
+1.45E+18,Albany Cozy room W/Breakfast Close to Downtown,FIFTH WARD,Entire home/apt,2,1,1,84.2,4.33,27,f
+1.46E+18,Charming 1 Bedroom House,TENTH WARD,Entire home/apt,2,1,1,160,4.65,20,t
+1.46E+18,The Dove: A Peaceful Large Studio Private Bathroom,FOURTEENTH WARD,Entire home/apt,2,1,2,74.7,4.87,31,t
+1.46E+18,Historic Downtown Albany 2 Bdrm,SECOND WARD,Entire home/apt,4,2,1,301,4.95,20,t
+1.46E+18,2BR w/ Parking + deck - Near Downtown & MVP Arena,SECOND WARD,Entire home/apt,4,2,2,213,4.79,62,t
+1.46E+18,2BR w/ Parking + Deck ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½,SECOND WARD,Entire home/apt,4,2,2,189,4.82,56,t
+1.47E+18,Downtown Living Space,THIRD WARD,Entire home/apt,4,1,1,176.5,5,1,f
+1.47E+18,Albany Central Room W/Breakfast Next to Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,84.5,4.38,8,f
+1.47E+18,2nd floor 2 bed close to college/hospitals,TWELFTH WARD,Entire home/apt,4,2,2,154,5,3,t
+1.47E+18,The Madison- Work Friendly Apt with Parking,SIXTH WARD,Entire home/apt,2,1,1,152.28,4,3,f
+1.47E+18,Bright & Airy 1 BDRM Private Apt,FOURTH WARD,Entire home/apt,2,1,1,212,4.94,17,f
+1.47E+18,Slate private queen room near AMC,TENTH WARD,Private room,1,1,1,80,5,2,t
+1.47E+18,Jardï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï,TENTH WARD,Private room,1,1,1,106.93,5,1,t
+1.47E+18,"Ivory private queen, walk to AMC",TENTH WARD,Private room,1,1,1,99,5,3,t
+1.48E+18,Sienna private queen near AMC,TENTH WARD,Private room,1,1,1,53.72,5,2,t
+1.48E+18,Ontario's Luxe House,NINTH WARD,Entire home/apt,8,3,4,496.8,4.94,77,t
+1.48E+18,"Spacious 4br home near hospitals, schools",TENTH WARD,Entire home/apt,9,4,4,279,,0,t
+1.48E+18,Central Albany Retreat | Walk Everywhere + Parking,SIXTH WARD,Entire home/apt,2,1,1,167,4.96,51,t
+1.48E+18,Albany Cozy Room Next to Downtown With Breakfast,FIFTH WARD,Entire home/apt,2,1,1,86.75,4.2,5,f
+1.48E+18,Albany Cozy Stay with Breakfast Next to Downtown,FIFTH WARD,Entire home/apt,4,1,2,80.5,3.93,14,f
+1.48E+18,Albany Central Room W/Breakfast Nextto Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,85.8,4.21,19,f
+1.50E+18,Apartment in Albany,SIXTH WARD,Entire home/apt,3,1,1,116,4.87,47,t
+1.50E+18,3BR Downtown duplex full kitchen parking off i-787,THIRD WARD,Entire home/apt,9,3,3,223.56,5,55,t
+1.50E+18,Cozy Room - Best City Location,SIXTH WARD,Private room,2,1,1,62.68,4.77,26,t
+1.50E+18,"Elegant 1BR in Historic Center Square, Albany",SIXTH WARD,Entire home/apt,2,1,1,110.24,,0,f
+1.51E+18,Cozy Teal Retreat | 1 Mile Albany Medical & VA Med,SEVENTH WARD,Private room,1,1,1,110,5,3,f
+1.51E+18,Large Studio Downtown with Pool Table,SIXTH WARD,Entire home/apt,2,1,1,11680,,0,f
+1.51E+18,Large 1 bedroom downtown!,FOURTH WARD,Entire home/apt,3,1,2,11680,5,1,f
+1.51E+18,Spacious Downtown 1BR Cozy Apartment!,SIXTH WARD,Entire home/apt,3,1,1,11680,,0,f
+1.51E+18,Spacious Studio | Downtown,SIXTH WARD,Entire home/apt,2,1,1,11680,4.5,2,f
+1.51E+18,Very Comfortable Studio Downtown,SIXTH WARD,Entire home/apt,2,1,1,11680,,0,f
+1.52E+18,Stylish 3BR Stay Near Albany Medical Center,NINTH WARD,Entire home/apt,6,3,3,189.57,5,1,f
+1.52E+18,Spacious 4BR Home Near Hospitals ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿,TENTH WARD,Entire home/apt,8,4,4,339,4.94,51,t
+1.52E+18,Cozy Albany Room Next to Downtown with Breakfast,ELEVENTH WARD,Entire home/apt,2,1,1,90.5,4,6,f
+1.52E+18,Suite One - 1 Bedroom Apartment,SIXTH WARD,Entire home/apt,2,1,1,143,4.76,21,t
+1.52E+18,Historic City Center Brick Glow,SIXTH WARD,Entire home/apt,2,0,1,235,4.67,3,f
+1.53E+18,"Bright, Clean, Convenient. Close to Albany Med.",NINTH WARD,Private room,2,1,1,107,,0,f
+1.53E+18,ParkSide Retreat - 2 BDR with Off Street Parking,SIXTH WARD,Entire home/apt,4,2,2,210,4.9,48,t
+1.53E+18,Charming 2 BR home in Albany,EIGHTH WARD,Entire home/apt,5,2,2,270,4.99,78,t
+1.53E+18,Midtown Retreat!,NINTH WARD,Private room,4,2,2,109,4.8,20,t
+1.54E+18,Welcome to Albany! Close to Hospitals and Shops.,NINTH WARD,Private room,2,1,1,115,5,1,f
+1.54E+18,Elegant Albany Home with Breakfast Close Downtown,ELEVENTH WARD,Entire home/apt,4,1,2,90.5,3.5,4,f
+1.54E+18,"2 bedrooms, 1 bathroom [HUGE] Furnished apartment",FIRST WARD,Entire home/apt,2,2,2,72,,0,f
+1.54E+18,Private Hot Tub 2 Ensuites | Walk to Capitol,SECOND WARD,Entire home/apt,4,2,2,,5,24,t
+1.54E+18,"Prime Location! Updated 2 Bedroom Apt King bed, AC",FOURTEENTH WARD,Entire home/apt,4,2,2,241.2,4.81,21,t
+1.54E+18,'The Morris Home' Private Bedroom 4 / 2 Full Bath,TENTH WARD,Private room,1,1,1,,5,1,f
+1.55E+18,Urban Micro Loft | Central Albany + Parking,SIXTH WARD,Entire home/apt,2,1,1,152,4.82,34,t
+1.55E+18,'The Morris Home' Private Bedroom 5 / 2 Full Bath,TENTH WARD,Private room,1,1,1,58.72,,0,f
+1.55E+18,Beautiful Room in a Clean Home!,NINTH WARD,Private room,1,8,1,98.5,5,2,t
+1.55E+18,Charming Cottage,EIGHTH WARD,Entire home/apt,4,2,2,,,0,f
+1.56E+18,Great Two bedroom in Albany NY-Centrally Located,SIXTH WARD,Entire home/apt,2,2,2,89.38,5,3,f
+1.56E+18,Lovely & Spacious 3BR by Albany Med,NINTH WARD,Entire home/apt,6,3,3,158.93,5,1,f
+1.57E+18,Historic City Center Brick Hideaway,SIXTH WARD,Entire home/apt,2,0,1,172.5,4,4,f
+1.57E+18,Albany Cozy stay with Breakfast Next to Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,82,4.1,20,f
+1.57E+18,Larson Honey,SIXTH WARD,Entire home/apt,3,1,3,,4.96,25,t
+1.57E+18,AMC Traveling Medical Professionals!,NINTH WARD,Private room,1,8,1,90,5,5,t
+1.57E+18,"Landing | Incredible 2BD, Gym",NINTH WARD,Entire home/apt,4,2,2,,4,4,f
+1.57E+18,"Landing | Incredible 1BD, Gym",SIXTH WARD,Entire home/apt,2,1,1,,4.5,2,f
+1.57E+18,Walk to Albany Med in 5 minutes!,NINTH WARD,Private room,1,4,1,58.74,4.8,5,t
+1.58E+18,Albany Central room with Breakfast Next Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,88,4.44,9,f
+1.58E+18,Charming Albany Retreat ~ 3 Mi to Downtown!,THIRTEENTH WARD,Entire home/apt,8,3,5,221.5,5,1,f
+1.60E+18,Comfort and Spacious,EIGHTH WARD,Entire home/apt,9,4,5,344,4.94,17,t
+1.60E+18,Albany-center-elite-apartment,SECOND WARD,Entire home/apt,6,1,4,115,4.67,6,f
+1.60E+18,"Chic 2BR Retreat in Albany Cozy, Stylish & Central",SEVENTH WARD,Entire home/apt,5,2,2,270,4.56,9,f
+1.60E+18,Two-bedroom House Albany,EIGHTH WARD,Entire home/apt,4,2,2,180.5,5,5,f
+1.61E+18,Modern Apartment.,FOURTH WARD,Entire home/apt,3,1,1,67.5,4.46,13,f
+1.61E+18,Albany Comfy 1BD Hotel W/Breakfast Next Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,86.94,2.83,6,f
+1.61E+18,Cozy 1BD Room in Albany with Breakfast & view,ELEVENTH WARD,Entire home/apt,2,1,1,78.88,3,2,f
+1.61E+18,ýýýýýýThe Morris Homeýýýýýý Private Bedroom 1 / 2 Full Bath,TENTH WARD,Private room,1,1,1,58.72,5,1,t
+1.61E+18,Historic Albany Nest | Center of it All + Parking,SIXTH WARD,Entire home/apt,2,1,1,207,4.91,35,t
+1.62E+18,Large Bedroom in the heart of downtown Albany.,SIXTH WARD,Private room,2,1,2,79.2,4.89,9,f
+1.62E+18,ýýýýýýThe Morris Homeýýýýýý Private Bedroom 6 / 2 Full Bath,TENTH WARD,Private room,1,1,1,73.34,,0,f
+1.62E+18,A beautiful home away from home for travelers.,SIXTH WARD,Entire home/apt,6,3,4,227.7,4.91,23,f
+1.62E+18,Private 3BR Townhouse by St. Peter's | Fast Wi-Fi,FOURTEENTH WARD,Entire home/apt,12,3,4,285,4.96,25,f
+1.63E+18,Large Bedroom in the heart of downtown Albany.,SIXTH WARD,Private room,2,1,1,79.2,4.5,2,f
+1.63E+18,"Large room with walk in closet, work station",SIXTH WARD,Private room,2,1,2,79.2,3.8,5,f
+1.63E+18,Newly Renovated 3BR/2BA with Private Attic Suite,SEVENTH WARD,Entire home/apt,6,3,3,338.68,4.58,12,f
+1.63E+18,"Short-Term Room Rental - Downtown Albany, NY",SECOND WARD,Private room,1,1,1,,4.67,3,f
+1.63E+18,Apartment: King Bed + 2 Queens in Spacious 3BR,THIRTEENTH WARD,Entire home/apt,6,3,3,139.5,4.33,3,t
+1.63E+18,2 min walk to albanymed|offst parking| in unit W/D,NINTH WARD,Entire home/apt,2,1,1,195,4.64,11,f
+1.64E+18,The Eagle: Cozy Queen Room in Shared Apartment,FOURTEENTH WARD,Private room,2,1,1,49.6,4,1,t
+1.64E+18,The Owl: Queen Bedroom + Shared Kitchen & Bath,FOURTEENTH WARD,Private room,2,1,1,61.4,5,3,t
+1.64E+18,"The Falcon: large room, king side bed+ work space",THIRTEENTH WARD,Private room,2,1,1,66.4,5,5,t
+1.64E+18,Quiet Room w/ Private Bath & Desk,FOURTEENTH WARD,Private room,1,1,1,39.64,,0,f
+1.64E+18,Escape to Albany,SIXTH WARD,Entire home/apt,5,3,3,241,,0,f
+1.64E+18,Charming fully furnished 2BR + office next to AMC,NINTH WARD,Entire home/apt,4,2,2,185.5,4.72,18,t
+1.65E+18,New Modern 2 bedroom on the park,SIXTH WARD,Entire home/apt,5,2,3,121.67,4.8,15,t
+1.65E+18,Rowhouse 23 Studio,SIXTH WARD,Entire home/apt,2,1,1,209,5,16,t
+1.65E+18,Soul-House,NINTH WARD,Entire home/apt,5,3,3,160,5,6,f
+1.65E+18,New Modern 2 Bedroom on the Park,SIXTH WARD,Entire home/apt,5,2,3,121.67,4.75,12,t
+1.66E+18,Beautiful Center Square garden apt w/ back patio.,SIXTH WARD,Entire home/apt,4,1,1,130,4.92,26,t
+1.67E+18,"Room in Albany, close to Albany Medical Center",TENTH WARD,Private room,1,4,1,36.65,,0,f
+1.67E+18,Larson Checkered,SIXTH WARD,Entire home/apt,2,1,1,128.5,5,19,t
+1.67E+18,Rowhouse 18 - 1BDR Park South,SIXTH WARD,Entire home/apt,2,1,1,170,4.73,11,t
+1.67E+18,The Nook,ELEVENTH WARD,Private room,1,1,1,64.33,,0,f
+1.68E+18,"Serene and Cozy: Clean, Cozy Contemporary Living",FIRST WARD,Entire home/apt,4,2,2,243,4.67,3,f
+1.68E+18,Luxury Albany Stay with Breakfast Next Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,101.84,3.5,4,f
+1.68E+18,Albany Marvelous Room with Breakfast Next Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,96.7,4,1,f
+1.68E+18,Prime location ! King & Full bed! Sleeps 4 cozy ac,FOURTEENTH WARD,Entire home/apt,4,1,2,227,5,3,t
+1.68E+18,Two-bedroom apartment in historic Center Square,SIXTH WARD,Entire home/apt,3,2,2,207,4.69,13,t
+1.68E+18,Perfect Albany Getaway Near Hospitals & Downtown,TENTH WARD,Entire home/apt,3,1,2,159,5,1,f
+1.69E+18,Great spot in Albany,SIXTH WARD,Entire home/apt,2,1,1,160,,0,t
+1.70E+18,AMC Cozy Bedroom,SIXTH WARD,Private room,1,1,1,85.5,5,1,f
+1.70E+18,MC Washington Park,SIXTH WARD,Private room,1,2,1,85.5,5,1,f
+1.70E+18,Serenity Room,THIRD WARD,Private room,1,1,1,,5,1,f
+1.71E+18,Ontario st apartment,NINTH WARD,Private room,1,1,1,150,5,1,f
+1.72E+18,Private cozy room in quiet neighborhood,TENTH WARD,Private room,2,1,1,66,5,7,f
+1.72E+18,Modern Loft w/ Parking + Private Yard | Downtown,FIRST WARD,Entire home/apt,4,1,1,129,4.95,22,f
+1.72E+18,Central Albany 2BD Condo W/Breakfast Next Downtown,ELEVENTH WARD,Entire home/apt,4,1,2,128,4,3,f
+1.72E+18,Recently updated first floor flat near SUNY Albany,FOURTEENTH WARD,Entire home/apt,6,3,3,344,5,5,f
+1.72E+18,Private room in quiet neighborhood,TENTH WARD,Private room,2,1,1,65,5,10,f
+1.72E+18,Cozy room in quiet neighborhood,TENTH WARD,Private room,2,1,1,68,5,8,f
+1.72E+18,"Pine Hills apartment, private parking included",THIRTEENTH WARD,Entire home/apt,4,2,2,111.07,,0,t
+1.72E+18,Cozy Albany Stay with Breakfast Next Downtown,ELEVENTH WARD,Entire home/apt,4,1,2,122,3.5,2,f
+1.73E+18,Cozy and Comfy Studio Apartment,FIRST WARD,Entire home/apt,2,1,1,115.26,5,2,t
+1.74E+18,Cozy Albany Stay With Breakfast Next Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,116,5,2,f
+1.74E+18,Room in Albany Breakfast included Next to Downtown,ELEVENTH WARD,Entire home/apt,4,1,2,101,4.67,3,f
+1.74E+18,Albany Home with Breakfast minutes to Downtown,ELEVENTH WARD,Entire home/apt,4,1,2,120,,0,f
+1.74E+18,Albany Cozy Stay with Breakfast Next Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,117,3.5,2,f
+1.74E+18,Cozy Albany 2BD Room Breakfast included,ELEVENTH WARD,Entire home/apt,4,1,2,101,5,2,f
+1.74E+18,Central Albany Stay with Breakfast Next Downtown,ELEVENTH WARD,Entire home/apt,4,1,2,105,3.67,3,f
+1.74E+18,Comfy Albany 1BD Stay with Breakfast Next Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,164,4.8,5,f
+1.74E+18,Albany Elegant Room with Breakfast Next Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,102.8,1,1,f
+1.74E+18,Albany Breakfast included Suite Next to Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,152,4.5,4,f
+1.74E+18,Albany Relaxing Stay Breakfast included Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,105,4,2,f
+1.74E+18,Serenity; a stylish 2-bedroom retreat near Ualbany,FIFTEENTH WARD,Entire home/apt,4,2,2,185,5,1,t
+1.74E+18,Albany Stay Breakfast included minutes to Downtown,ELEVENTH WARD,Entire home/apt,2,1,1,112,5,1,f
+1.74E+18,Central Albany Room Next to downtown W/Breakfast,ELEVENTH WARD,Entire home/apt,2,1,1,102,5,1,f
+1.74E+18,Cozy 2BD Hotel Room in Albany Breakfast included,ELEVENTH WARD,Entire home/apt,4,1,2,99.5,,0,f
+1.75E+18,5 min. drive to amazing restaurants and nightlife,FIFTH WARD,Private room,6,3,3,203,,0,f
+1.75E+18,The Snug,ELEVENTH WARD,Private room,1,1,1,60,,0,f
+1.75E+18,Historic City Center Brick SkyLight,SIXTH WARD,Entire home/apt,2,1,1,100.88,,0,f
+1.76E+18,"The Capital Hub: 3BR, 2BA Home w/ King Beds",SECOND WARD,Entire home/apt,6,3,3,135.31,,0,f
+1.76E+18,The playground,ELEVENTH WARD,Entire home/apt,16,1,4,137.6,,0,f
+1.76E+18,Friendly warm apartment cozy clean friendly,SEVENTH WARD,Private room,1,2,2,76,,0,f
+1.76E+18,"Albany Value Stay Near universities, Hospitals",TENTH WARD,Entire home/apt,7,4,5,289,5,2,f
+1.76E+18,Simple & Central 1BD/1BA Fl 3 Apt @DowntownAlbany,SECOND WARD,Entire home/apt,3,1,2,197,,0,f
+1.77E+18,Upscale downtown Garden Level 2BR Kitchen Spa Bath,THIRD WARD,Entire home/apt,7,2,3,185,,0,t
+1.77E+18,Center Square Beauty,SIXTH WARD,Entire home/apt,4,2,2,139.2,5,2,f
+1.77E+18,Espacio funcional y comodo. Centrico.,FIRST WARD,Entire home/apt,6,3,4,356,,0,f
+1.77E+18,Central Albany Getaway for Work and Play,FIFTH WARD,Entire home/apt,8,2,2,297,,0,f
